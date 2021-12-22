@@ -51,17 +51,17 @@ class _page4State extends State<page4> {
             Container(
               color: Colors.white,
               width: 140,
-              height: 55,
+              height: 58,
             ),
             Container(
               color: Colors.blue,
               width: 140,
-              height: 55,
+              height: 58,
             ),
             Container(
               color: Colors.red,
               width: 140,
-              height: 55,
+              height: 58,
             )
           ],
 
